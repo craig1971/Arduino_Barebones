@@ -1,7 +1,7 @@
 # Arduino_Barebones
 Breadboard diagrams for barebones Arduino boards
  
-![txt](Arduino Barebones Breadboard.PNG)
+![txt](Arduino%20Barebones%20Breadboard.PNG)
  
 ### Digital Input Pull-Up resistor
 https://www.arduino.cc/en/Tutorial/DigitalInputPullup
