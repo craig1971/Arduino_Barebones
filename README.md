@@ -2,6 +2,8 @@
 Breadboard diagrams for barebones Arduino boards
  
 ![txt](Arduino%20Barebones%20Breadboard.PNG)
+
+![txt](Arduino-To-Atmega8-Pins.png)
  
 ### Digital Input Pull-Up resistor
 https://www.arduino.cc/en/Tutorial/DigitalInputPullup
